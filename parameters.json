@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_tertseq_dev_vm_name": {
+            "value": null
+        },
+        "networkInterfaces_tertseq_dev_vm597_name": {
+            "value": null
+        },
+        "publicIPAddresses_tertseq_dev_vm_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_testseq_dev_rg_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_tertseq_dev_vm_nsg_name": {
+            "value": null
+        },
+        "vaults_testseq_dev_recoveryvault_name": {
+            "value": null
+        }
+    }
+}
